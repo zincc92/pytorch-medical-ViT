@@ -45,3 +45,7 @@ Average precision : 0.97
 ![image](https://github.com/user-attachments/assets/9880848c-3c43-4ce6-b672-4f2ccc241c65)
 ![image](https://github.com/user-attachments/assets/16bbce15-f021-49fa-b4d7-25a79f12e556)
 
+A small web app interface has been done too, to predict classes from pictures :
+![image](https://github.com/user-attachments/assets/5813a5ea-8457-4514-8f26-88a47f49e00a)
+
+
