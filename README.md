@@ -38,3 +38,10 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Results 
+
+Average precision : 0.97
+![image](https://github.com/user-attachments/assets/9880848c-3c43-4ce6-b672-4f2ccc241c65)
+![image](https://github.com/user-attachments/assets/16bbce15-f021-49fa-b4d7-25a79f12e556)
+
